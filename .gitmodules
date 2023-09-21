@@ -1,0 +1,3 @@
+[submodule "child1"]
+	path = child1
+	url = https://github.com/JungHoe/git-submodule-practice-child1.git
